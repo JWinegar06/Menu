@@ -62,7 +62,10 @@ body {
     text-align: left;
     width: 75%;
   }
-  
+
+  .types p {text-align: center; font-size: 14px}
+
+
   .price {
     text-align: right;
     width: 25%;
